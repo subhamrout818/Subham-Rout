@@ -4,11 +4,13 @@
 
 <div align="center">
 
-# Hi, I'm Subham Rout 👋
+<div align="center">
 
-### Full-Stack Developer • Creative Developer • Video Editor
+### Full-Stack Developer • Creative Developer • Motion Designer
 
 Building digital experiences where software engineering, motion design, and cinematic storytelling come together.
+
+</div>
 
 <p>
   <a href="https://github.com/subhamrout818">GitHub</a> •
