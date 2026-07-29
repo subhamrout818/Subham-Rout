@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./assets/subham-rout-banner.svg" alt="Subham Rout Banner" width="100%">
+</p>
+
+<div align="center">
+
+# Hi, I'm Subham Rout 👋
+
 <div align="center">
 
 # Hi, I'm Subham Rout 👋
