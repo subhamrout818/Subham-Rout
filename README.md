@@ -6,10 +6,6 @@
 
 # Hi, I'm Subham Rout 👋
 
-<div align="center">
-
-# Hi, I'm Subham Rout 👋
-
 ### Full-Stack Developer • Creative Developer • Video Editor
 
 Building digital experiences where software engineering, motion design, and cinematic storytelling come together.
