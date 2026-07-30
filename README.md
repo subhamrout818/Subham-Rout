@@ -13,9 +13,7 @@ Building digital experiences where software engineering, motion design, and cine
 </div>
 
 <p>
-  <a href="https://github.com/subhamrout818">GitHub</a> •
-
-  <a href="mailto:for1s.contact@gmail.com">Email</a>
+  <a href="https://github.com/subhamrout818">GitHub</a> • <a href="mailto:for1s.contact@gmail.com">Email</a>
 </p>
 
 </div>
