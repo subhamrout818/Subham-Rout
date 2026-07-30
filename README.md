@@ -14,9 +14,8 @@ Building digital experiences where software engineering, motion design, and cine
 
 <p>
   <a href="https://github.com/subhamrout818">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://YOUR_PORTFOLIO.vercel.app">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+
+  <a href="mailto:for1s.contact@gmail.com">Email</a>
 </p>
 
 </div>
